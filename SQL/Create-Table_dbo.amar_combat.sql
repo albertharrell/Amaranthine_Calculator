@@ -1,4 +1,5 @@
-CREATE TABLE dbo.amar_combat (
+CREATE TABLE dbo.amar_combat 
+(
     [UID] INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
     Action_Name VARCHAR(150),
     RequiredItemName VARCHAR(150),
