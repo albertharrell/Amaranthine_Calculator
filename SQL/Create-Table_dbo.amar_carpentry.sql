@@ -1,4 +1,5 @@
-CREATE TABLE dbo.amar_carpentry (
+CREATE TABLE dbo.amar_carpentry 
+(
 	[UID] INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
     ActionName VARCHAR(150) NOT NULL,
     [Level] INT NOT NULL,
