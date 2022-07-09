@@ -638,7 +638,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         39,
@@ -654,7 +654,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         40,
@@ -670,7 +670,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         41,
@@ -686,7 +686,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         42,
@@ -702,7 +702,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         43,
@@ -718,7 +718,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         44,
@@ -734,7 +734,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         45,
@@ -750,7 +750,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         46,
@@ -766,7 +766,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         47,
@@ -782,7 +782,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         48,
@@ -798,7 +798,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         49,
@@ -814,7 +814,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         50,
@@ -830,7 +830,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         51,
@@ -846,7 +846,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         52,
@@ -862,7 +862,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         53,
@@ -878,7 +878,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         54,
@@ -894,7 +894,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         55,
@@ -910,7 +910,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         56,
@@ -926,7 +926,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         57,
@@ -942,7 +942,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         58,
@@ -958,7 +958,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         59,
@@ -974,7 +974,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         60,
@@ -990,7 +990,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         61,
@@ -1006,7 +1006,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         62,
@@ -1022,7 +1022,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         63,
@@ -1038,7 +1038,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         64,
@@ -1054,7 +1054,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         65,
@@ -1070,7 +1070,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         66,
@@ -1086,7 +1086,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         67,
@@ -1102,7 +1102,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         68,
@@ -1118,7 +1118,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         69,
@@ -1134,7 +1134,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         70,
@@ -1150,7 +1150,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         71,
@@ -1166,7 +1166,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         72,
@@ -1182,7 +1182,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         73,
@@ -1198,7 +1198,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         74,
@@ -1214,7 +1214,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         75,
@@ -1230,7 +1230,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         76,
@@ -1246,7 +1246,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         77,
@@ -1262,7 +1262,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         78,
@@ -1278,7 +1278,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         79,
@@ -1294,7 +1294,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         80,
@@ -1310,7 +1310,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         81,
@@ -1326,7 +1326,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         82,
@@ -1342,7 +1342,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         83,
@@ -1358,7 +1358,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         84,
@@ -1374,7 +1374,7 @@ VALUES
         'Qelutviaq Bow',
         1,
         'Walrus Skull',
-        1,
+        1
     ),
     (
         85,
@@ -1390,7 +1390,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         86,
@@ -1406,7 +1406,7 @@ VALUES
         'Diamond',
         1,
         NULL,
-        NULL,
+        NULL
     ),
     (
         87,
@@ -1422,7 +1422,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         88,
@@ -1438,7 +1438,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         89,
@@ -1454,7 +1454,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         90,
@@ -1470,7 +1470,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         91,
@@ -1486,7 +1486,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         92,
@@ -1502,7 +1502,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         93,
@@ -1518,7 +1518,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         93,
@@ -1534,7 +1534,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         94,
@@ -1550,7 +1550,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         95,
@@ -1566,7 +1566,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         96,
@@ -1582,7 +1582,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         97,
@@ -1598,7 +1598,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         98,
@@ -1614,7 +1614,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         99,
@@ -1630,7 +1630,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         100,
@@ -1646,7 +1646,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         101,
@@ -1662,7 +1662,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         102,
@@ -1678,7 +1678,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         103,
@@ -1694,7 +1694,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         104,
@@ -1710,7 +1710,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         105,
@@ -1726,7 +1726,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         106,
@@ -1742,7 +1742,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         107,
@@ -1758,7 +1758,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         108,
@@ -1774,7 +1774,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         109,
@@ -1790,7 +1790,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         110,
@@ -1806,7 +1806,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         111,
@@ -1822,7 +1822,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         112,
@@ -1838,7 +1838,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         113,
@@ -1854,7 +1854,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         114,
@@ -1870,7 +1870,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         115,
@@ -1886,7 +1886,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         116,
@@ -1902,7 +1902,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         117,
@@ -1918,7 +1918,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         118,
@@ -1934,7 +1934,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         119,
@@ -1950,7 +1950,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         120,
@@ -1966,7 +1966,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         121,
@@ -1982,7 +1982,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         122,
@@ -1998,7 +1998,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         123,
@@ -2014,7 +2014,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         124,
@@ -2030,7 +2030,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         125,
@@ -2046,7 +2046,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         126,
@@ -2062,7 +2062,7 @@ VALUES
         'Ivory',
         1,
         NULL,
-        NULL,
+        NULL
     ),
     (
         127,
@@ -2078,7 +2078,7 @@ VALUES
         'Ivory',
         1,
         NULL,
-        NULL,
+        NULL
     ),
     (
         128,
@@ -2094,7 +2094,7 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     ),
     (
         129,
@@ -2110,5 +2110,5 @@ VALUES
         NULL,
         NULL,
         NULL,
-        NULL,
+        NULL
     )
