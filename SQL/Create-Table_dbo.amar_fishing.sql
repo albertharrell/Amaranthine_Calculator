@@ -16,5 +16,5 @@ CREATE TABLE dbo.amar_fishing
     RandomDropName VARCHAR(150),
     RandomDropNumber INT,
     RequiredItemName VARCHAR(150),
-    RequiredItemNumber INT,
+    RequiredItemNumber INT
 );

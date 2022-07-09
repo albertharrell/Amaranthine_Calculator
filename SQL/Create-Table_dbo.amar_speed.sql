@@ -29,5 +29,5 @@ CREATE TABLE dbo.amar_speed
     RandomDropNumberMin INT,
     RandomDropNumberMax INT,
     RequiredItemName VARCHAR(150),
-    RequiredItemNumber INT,
+    RequiredItemNumber INT
 );

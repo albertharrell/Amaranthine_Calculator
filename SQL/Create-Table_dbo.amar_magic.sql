@@ -15,5 +15,5 @@ CREATE TABLE dbo.amar_magic
     RequiredItem3Name VARCHAR(150),
     Item3Number INT,
     RequiredItem4Name VARCHAR(150),
-    Item4Number INT,
+    Item4Number INT
 );

@@ -11,5 +11,5 @@ CREATE TABLE dbo.amar_woodcutting
     RandomDropName2 VARCHAR(150),
     RandomDropNumber2 INT,
     RequiredItemName VARCHAR(150),
-    RequiredItemNumber INT,
+    RequiredItemNumber INT
 );
