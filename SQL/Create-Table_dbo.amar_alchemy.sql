@@ -9,7 +9,7 @@ CREATE TABLE dbo.amar_alchemy
     RandomDropName1 VARCHAR(150),
     RandomDropNumber1 INT,
     RandomDropName2 VARCHAR(150),
-    RandomDropName2Int INT
+    RandomDropName2Int INT,
     RandomDropName3 VARCHAR(150),
     RandomDropName3Int INT,
     PumpkinRandomMin INT,
@@ -17,7 +17,7 @@ CREATE TABLE dbo.amar_alchemy
     LemmingRandomMin INT,
     LemmingRandomMax INT,
     RequiredItem1Name VARCHAR(150),
-    RequiredItem1,
+    RequiredItem1 INT,
     RequiredItem2Name VARCHAR(150),
     RequiredItem2 INT,
     RequiredItem3Name VARCHAR(150),
