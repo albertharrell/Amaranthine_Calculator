@@ -1,16 +1,18 @@
 CREATE TABLE dbo.amar_fishing
 (
-    [UID] INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+    [UID] INT NOT NULL PRIMARY KEY,
     ActionName VARCHAR(150) NOT NULL,
-    ActionNameDrop1 VARCHAR(150)
-    ActionNameDrop1QuantityMin INT,
-    ActionNameDrop1QuantityMax INT,
-    ActionNameDrop2 VARCHAR(150)
-    ActionNameDrop2QuantityMin INT,
-    ActionNameDrop2QuantityMax INT,
-    ActionNameDrop3 VARCHAR(150)
-    ActionNameDrop3QuantityMin INT,
-    ActionNameDrop3QuantityMax INT,
+    ActionQuantityMin INT,
+    ActionQuantityMax INT,
+    SubActionName1 VARCHAR(150),
+    SubAction1QuantityMin INT,
+    SubAction1QuantityMax INT,
+    SubActionName2 VARCHAR(150),
+    SubAction2QuantityMin INT,
+    SubAction2QuantityMax INT,
+    SubActionName3 VARCHAR(150),
+    SubAction3QuantityMin INT,
+    SubAction3QuantityMax INT,
     [Level] INT NOT NULL,
     XP INT NOT NULL,
     RandomDropName VARCHAR(150),
