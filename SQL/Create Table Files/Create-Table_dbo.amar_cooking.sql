@@ -1,6 +1,6 @@
 CREATE TABLE dbo.amar_cooking
 (
-    [UID] INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+    [UID] INT NOT NULL PRIMARY KEY,
     ActionName VARCHAR(150) NOT NULL,
     ActionNameQuantityMin INT,
     ActionNameQuantityMax INT,
